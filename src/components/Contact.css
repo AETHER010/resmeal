@@ -1,0 +1,25 @@
+.body {
+  background-image: url("https://ak.picdn.net/shutterstock/videos/22118923/thumb/1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  box-sizing: border-box;
+}
+
+form {
+  background-color: transparent;
+  margin: 20px;
+  height: 83vh;
+}
+
+.textarea {
+  color: rgb(194, 16, 16);
+  margin: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.fieldarea {
+  background-color: transparent;
+  margin: 20px;
+}

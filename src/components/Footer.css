@@ -1,0 +1,16 @@
+.footcontain {
+  height: 100px;
+  background-color: rgb(187, 46, 10);
+  margin: 0px;
+}
+
+ul {
+  float: left;
+  text-decoration: none;
+  margin-left: 10px;
+  list-style-type: none;
+}
+
+.foot {
+  font-size: 12px;
+}

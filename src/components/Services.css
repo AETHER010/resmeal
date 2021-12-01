@@ -1,0 +1,29 @@
+.setcontainer {
+  height: 180vh;
+  text-align: center;
+}
+
+.head {
+  color: white;
+  font-weight: bold;
+  margin-left: 8vh;
+  text-decoration: underline;
+}
+
+.lists {
+  text-align: center;
+  justify-content: center;
+  margin-left: 60vh;
+}
+
+.lists a {
+  margin: 20px;
+  padding: 20px;
+  font-size: 26px;
+  text-decoration: underline;
+}
+
+.ntg1 {
+  height: 200px;
+  width: 200px;
+}
